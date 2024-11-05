@@ -6,3 +6,4 @@
 - [Virtualização](fundamentos/virtualizacao.md)
 - [Lógica de Programação](fundamentos/logica-de-programacao.md)
 - [Algoritmo](fundamentos/algoritmo.md)
+- [Programação](fundamentos/programacao.md)
