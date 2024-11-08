@@ -1,6 +1,7 @@
 # Algoritmo
 
 ## Sobre
+
 O termo evoluiu bastante incluindo todos os procedimentos definidos para resolver problemas ou realizar tarefas. Do ponto de vista computacional, um algoritmo pode ser visto como um conjunto de regras e procedimentos lógicos perfeitamente definidos que levam à solução de um problema em um número finito de passos.
 
 Donald Knuth, um dos pesquisadores mais respeitados em algoritmos, indica uma lista de cinco propriedades que são requisitos para algoritmos:
